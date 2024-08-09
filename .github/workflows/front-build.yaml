@@ -23,7 +23,7 @@ jobs:
           script: | # 실행할 스크립트
             cd getting-started
             git pull origin main
-            npm i --force
+            npm i
             npm run build
 
 

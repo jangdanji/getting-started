@@ -78,7 +78,7 @@ function Test() {
           <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
           <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-          <button onClick={() => navigate('/')}>asfasfasfaf</button>
+          <button onClick={() => navigate('/')}>asfasfasfaftest</button>
 
           
       </RootBlock>
